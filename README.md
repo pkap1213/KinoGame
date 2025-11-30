@@ -1,6 +1,7 @@
 # Kino Game
 
 - Made in Java FX
-- Requires maven
-- java (atleast 11 or higher)
-- javafx
+- Requires Maven
+- Java (atleast 11 or higher)
+- Javafx
+- run with `mvn compile` and `mvn exec:java`
