@@ -21,5 +21,5 @@ This project implements a simple Kino game with a JavaFX graphical interface. It
 
 2. Running the game:
 ```bash
-mvn compile
-mvn exec:java
+   mvn compile
+   mvn exec:java
