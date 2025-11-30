@@ -16,5 +16,10 @@ This project implements a simple Kino game with a JavaFX graphical interface. It
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/pkap1213/KinoGame
+   cd https://github.com/pkap1213/KinoGame
+
+2. Running the game:
+```bash
+mvn compile
+mvn exec:java
