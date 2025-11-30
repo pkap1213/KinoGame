@@ -20,6 +20,6 @@ This project implements a simple Kino game with a JavaFX graphical interface. It
    cd https://github.com/pkap1213/KinoGame
 
 2. Running the game:
-```bash
+   ```bash
    mvn compile
    mvn exec:java
